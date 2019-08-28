@@ -12,5 +12,6 @@ public class A {
         System.out.println("master改了");
         System.out.println("master改了");
         System.out.println("master又改了");
+        System.out.println("master还改了");
     }
 }
