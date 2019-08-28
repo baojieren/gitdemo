@@ -8,6 +8,6 @@ public class A {
         System.out.println("ccc");
         System.out.println("ccc");
         System.out.println("ccc");
-        System.out.println("mster修改的prck");
+        System.out.println("dev修改的picked");
     }
 }
