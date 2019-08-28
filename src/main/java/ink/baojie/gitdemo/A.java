@@ -2,9 +2,7 @@ package ink.baojie.gitdemo;
 
 public class A {
     public static void main(String[] args) {
-        System.out.println(111);
-        System.out.println(222);
-        System.out.println(333);
-        System.out.println("dev修改的picked");
+        System.out.println("没tag");
+        System.out.println("没tag2");
     }
 }
