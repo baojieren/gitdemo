@@ -2,7 +2,6 @@ package ink.baojie.gitdemo;
 
 public class A {
     public static void main(String[] args) {
-        dev
-        master
+        System.out.println("就一个master");
     }
 }
