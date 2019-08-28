@@ -5,6 +5,5 @@ public class B {
         System.out.println("b-e");
         System.out.println("b-e");
         System.out.println("b-e");
-        System.out.println("b-e");
     }
 }
