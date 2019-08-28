@@ -1,9 +1,11 @@
 package ink.baojie.gitdemo;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class B {
     public static void main(String[] args) {
-        System.out.println("b-e");
-        System.out.println("b-e");
-        System.out.println("b-e");
+        List l = new ArrayList();
+        System.out.println(l.toString());
     }
 }
